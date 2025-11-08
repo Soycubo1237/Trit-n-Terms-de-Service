@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos de Servicio - Tritón | HCF</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            background-color: #36393f; /* Color similar al de Discord */
+            color: #ffffff;
+            padding: 1rem 0;
+            text-align: center;
+            border-radius: 8px 8px 0 0;
+            margin-bottom: 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #7289da; /* Color principal de Discord */
+            border-bottom: 2px solid #7289da;
+            padding-bottom: 5px;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #555;
+            margin-top: 20px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+            padding-left: 0;
+        }
+        a {
+            color: #7289da;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #36393f;
+            color: #ffffff;
+            border-radius: 0 0 8px 8px;
+        }
+        .last-updated {
+            font-size: 0.9em;
+            color: #888;
+            text-align: right;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Términos de Servicio de Tritón | HCF</h1>
+        </header>
+
+        <div class="last-updated">
+            Última actualización: 8 de noviembre de 2025
+        </div>
+
+        <p>Bienvenido a los Términos de Servicio de Tritón | HCF ("el Bot"), un bot de Discord desarrollado para servidores HCF (Hardcore Factions) de Minecraft Bedrock. Al añadir y utilizar el Bot en tu servidor de Discord, aceptas cumplir y estar sujeto a estos términos. Por favor, léelos cuidadosamente.</p>
+
+        <h2>1. Aceptación de los Términos</h2>
+        <p>Al utilizar Tritón | HCF, confirmas que has leído, entendido y aceptado estos Términos de Servicio. Si no estás de acuerdo con alguna parte de estos términos, no debes usar el Bot.</p>
+
+        <h2>2. Uso del Bot</h2>
+        <h3>2.1. Propósito</h3>
+        <p>Tritón | HCF está diseñado para proporcionar herramientas administrativas y de utilidad a los servidores de Discord relacionados con Minecraft Bedrock HCF, incluyendo, pero no limitado a, sistemas de tickets, información del servidor, gestión de DTR Freeze, y alertas para el staff.</p>
+
+        <h3>2.2. Restricciones de Uso</h3>
+        <ul>
+            <li>No utilizar el Bot para actividades ilegales o que violen las directrices de la comunidad de Discord.</li>
+            <li>No intentar descompilar, aplicar ingeniería inversa, modificar o acceder sin autorización al código o a los sistemas del Bot.</li>
+            <li>No utilizar el Bot para enviar spam, acosar o participar en cualquier comportamiento abusivo hacia otros usuarios o servidores.</li>
+            <li>No suplantar la identidad de Tritón | HCF o sus desarrolladores.</li>
+        </ul>
+
+        <h3>2.3. Moderación y Abuso</h3>
+        <p>Nos reservamos el derecho de revocar el acceso de Tritón | HCF a cualquier servidor o usuario si se detecta un abuso de las funciones del Bot o una violación de estos Términos de Servicio, o de las Directrices de la Comunidad de Discord. Esto puede incluir, pero no se limita a, la eliminación del Bot de su servidor.</p>
+
+        <h2>3. Privacidad y Datos</h2>
+        <p>Tritón | HCF puede recopilar datos mínimos necesarios para su funcionamiento, como IDs de servidor, IDs de canal e IDs de usuario, para funcionalidades como el sistema de tickets, logs y configuraciones específicas del servidor. No se recopila información personal identificable más allá de lo necesario para la funcionalidad del bot. Para más detalles, consulta nuestra <a href="#privacy-policy">Política de Privacidad</a> (si tienes una página separada).</p>
+        <p>Todos los datos se manejan de acuerdo con el Reglamento General de Protección de Datos (RGPD) y la Ley de Privacidad del Consumidor de California (CCPA) cuando sea aplicable.</p>
+
+        <h2>4. Descargo de Responsabilidad</h2>
+        <p>Tritón | HCF se proporciona "tal cual" sin garantías de ningún tipo, ya sean expresas o implícitas. No garantizamos que el Bot funcionará ininterrumpidamente, sin errores o de forma segura. El uso del Bot es bajo tu propio riesgo.</p>
+
+        <h2>5. Limitación de Responsabilidad</h2>
+        <p>Los desarrolladores de Tritón | HCF no serán responsables de ningún daño directo, indirecto, incidental, especial, consecuente o punitivo, incluyendo, sin limitación, pérdida de beneficios, datos, uso, fondo de comercio u otras pérdidas intangibles, resultantes de (i) tu acceso o uso o incapacidad de acceder o usar el Bot; (ii) cualquier conducta o contenido de terceros en el Bot; (iii) cualquier contenido obtenido del Bot; y (iv) el acceso, uso o alteración no autorizados de tus transmisiones o contenido, ya sea basado en garantía, contrato, agravio (incluyendo negligencia) o cualquier otra teoría legal, hayamos sido o no informados de la posibilidad de tales daños.</p>
+
+        <h2>6. Modificaciones de los Términos</h2>
+        <p>Nos reservamos el derecho de modificar o reemplazar estos Términos en cualquier momento. Si una revisión es material, haremos esfuerzos razonables para proporcionar un aviso de al menos 30 días antes de que los nuevos términos entren en vigor. Lo que constituye un cambio material se determinará a nuestra entera discreción. Al continuar accediendo o utilizando nuestro Bot después de que esas revisiones entren en vigor, aceptas estar sujeto a los términos revisados. Si no aceptas los nuevos términos, debes dejar de usar el Bot.</p>
+
+        <h2>7. Contacto</h2>
+        <p>Si tienes alguna pregunta sobre estos Términos de Servicio, puedes contactarnos a través de nuestro servidor de soporte de Discord o enviando un mensaje a los desarrolladores del bot.</p>
+
+        <footer>
+            <p>&copy; 2025 Tritón | HCF. Todos los derechos reservados.</p>
+        </footer>
+    </div>
+
+    <script>
+        // Aquí puedes añadir JavaScript si es necesario.
+        // Por ejemplo, para un botón de "volver arriba" o alguna interacción.
+
+        // Ejemplo simple: Desplazamiento suave al hacer clic en un enlace de ancla interno
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+
